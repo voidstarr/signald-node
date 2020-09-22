@@ -1,5 +1,5 @@
 {
-  "name": "signald",
+  "name": "signald-node",
   "version": "0.1.0",
   "description": "Client library for signald",
   "main": "src/Signal.js",
