@@ -1,0 +1,1 @@
+module.exports.SendMessageResult = require("./SendMessageResult");

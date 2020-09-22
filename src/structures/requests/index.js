@@ -1,0 +1,12 @@
+module.exports.Request = require("./Request");
+module.exports.AddDevice = require("./AddDevice");
+module.exports.MarkRead = require("./MarkRead");
+module.exports.Register = require("./Register");
+module.exports.Send = require("./Send");
+module.exports.Verify = require("./Verify");
+module.exports.GetUser = require("./GetUser");
+module.exports.GetIdentities = require("./GetIdentities");
+module.exports.Trust = require("./Trust");
+module.exports.React = require("./React");
+module.exports.UpdateContact = require("./UpdateContact");
+module.exports.UpdateGroup = require("./UpdateGroup");

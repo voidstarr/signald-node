@@ -1,0 +1,11 @@
+module.exports.Account = require("./Account");
+module.exports.Attachment = require("./Attachment");
+module.exports.Contact = require("./Contact");
+module.exports.Address = require("./Address"); // TODO: this and only this doesn't work? why?
+module.exports.GroupInfo = require("./GroupInfo");
+module.exports.Preview = require("./Preview");
+module.exports.Profile = require("./Profile");
+module.exports.QuoteAttachment = require("./QuoteAttachment");
+module.exports.Quote = require("./Quote");
+module.exports.Message = require("./Message");
+module.exports.Reaction = require("./Reaction");

@@ -1,0 +1,16 @@
+{
+  "name": "signald",
+  "version": "0.1.0",
+  "description": "Client library for signald",
+  "main": "src/Signal.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidstarr/signald-node.git"
+  },
+  "author": "voidstarr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voidstarr/signald-node/issues"
+  },
+  "homepage": "https://github.com/voidstarr/signald-node#readme"
+}
