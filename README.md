@@ -2,12 +2,19 @@
 
 This project is still a WIP; however, it is still usable.
 
+## Install:
+```bash
+npm i signald-node
+```
+
 ## Usage:
 ```js
 const Signal = require("signald-node");
-var client = new Signal("+123456789");
+var client = new Signal("+1234567890");
 client.link().then(r => {
     console.log(r);
+}).catch(err => {
+    console.log(err);
 });
 ```
 
